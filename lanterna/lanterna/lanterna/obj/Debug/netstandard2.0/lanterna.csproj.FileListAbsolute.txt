@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\imagens\off.png
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\imagens\on.png
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.deps.json
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.dll
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.pdb
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.dll
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\refint\lanterna.dll
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.pdb
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\ref\lanterna.dll
